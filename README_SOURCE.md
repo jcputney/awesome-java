@@ -628,6 +628,7 @@ _Libraries for scheduling background jobs._
 - [Quartz](https://github.com/quartz-scheduler/quartz) - Feature-rich, open source job scheduling library that can be integrated within virtually any Java application.
 - [Sundial](https://github.com/knowm/Sundial) - Lightweight framework to simply define jobs, define triggers and start the scheduler.
 - [Wisp](https://github.com/Coreoz/Wisp) - Simple library with minimal footprint and straightforward API.
+- [Ratchet](https://github.com/ratchet-run/ratchet) - A Java CDI-native scheduler for persistent jobs with retries, batches, workflows, encryption, and delayed signals. Written for Jakarta EE, with support for Quarkus and Spring Boot.
 - [db-scheduler](https://github.com/kagkarlsson/db-scheduler) - Persistent and cluster-friendly scheduler.
 - [shedlock](https://github.com/lukas-krecan/ShedLock) - Makes sure that your scheduled tasks are executed at most once at the same time. If a task is being executed on one node, it acquires a lock which prevents execution of the same task from another node or thread.
 - [XXL-JOB](https://github.com/xuxueli/xxl-job) - Distributed task scheduling platform with centralized administration and execution monitoring.
